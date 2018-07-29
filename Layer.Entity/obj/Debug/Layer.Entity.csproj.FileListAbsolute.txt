@@ -1,0 +1,10 @@
+C:\Users\doga\documents\visual studio 2017\Projects\N-Layer Project to Student\Layer.Entity\bin\Debug\Layer.Entity.dll.config
+C:\Users\doga\documents\visual studio 2017\Projects\N-Layer Project to Student\Layer.Entity\bin\Debug\Layer.Entity.dll
+C:\Users\doga\documents\visual studio 2017\Projects\N-Layer Project to Student\Layer.Entity\bin\Debug\Layer.Entity.pdb
+C:\Users\doga\documents\visual studio 2017\Projects\N-Layer Project to Student\Layer.Entity\bin\Debug\EntityFramework.dll
+C:\Users\doga\documents\visual studio 2017\Projects\N-Layer Project to Student\Layer.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\doga\documents\visual studio 2017\Projects\N-Layer Project to Student\Layer.Entity\bin\Debug\EntityFramework.xml
+C:\Users\doga\documents\visual studio 2017\Projects\N-Layer Project to Student\Layer.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\doga\documents\visual studio 2017\Projects\N-Layer Project to Student\Layer.Entity\obj\Debug\Layer.Entity.csprojResolveAssemblyReference.cache
+C:\Users\doga\documents\visual studio 2017\Projects\N-Layer Project to Student\Layer.Entity\obj\Debug\Layer.Entity.dll
+C:\Users\doga\documents\visual studio 2017\Projects\N-Layer Project to Student\Layer.Entity\obj\Debug\Layer.Entity.pdb
